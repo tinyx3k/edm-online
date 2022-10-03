@@ -1,5 +1,5 @@
 # bar-online
-- Web page: https://vinahouse.tk  
+- Web page: https://minhtuan29.github.io/bar-online   
   
 - Tiến độ:   
             Đang thực hiện, khi nào rảnh thì vô làm  
