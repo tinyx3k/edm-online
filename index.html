@@ -93,14 +93,31 @@
 
 
 
-    <div id="introbg" style="position: fixed; width: 100%; height: 100%; z-index: 100; background-color: #fff;">
-        <button onclick="f11()" id="f11btn" style="padding: 2em; margin-left:45%; margin-top: 25%;">Cất Cánh</button>
+    <div id="introbg" style="position: fixed; width: 100%; height: 100%; z-index: 100;  
+        background-image: url('https://lh3.google.com/u/1/d/1v9Vs4ZPUNck4BhbPeSFP5To2s867Ap0m=w1919-h969-iv1');
+         background-repeat: no-repeat;
+         background-size: cover;
+         ">
+
+        <!-- <button 
+            background-image: url('https://cdn.icon-icons.com/icons2/3565/PNG/512/bag_travel_flight_plane_airplane_icon_225364.png');">
+        </button> -->
+        <input onclick="f11()" id="f11btn" style="margin-left:45%; margin-top: 25%;
+        height: 12em;
+        width: 15em;
+        background-color: white;
+        border: 3px cadetblue solid;
+        border-radius: 1em;
+        " type="image"
+            src="https://cdn.icon-icons.com/icons2/3565/PNG/512/bag_travel_flight_plane_airplane_icon_225364.png" />
     </div>
 
 
-    <img src="./zero2.gif" style="position: fixed; top:20%;left:40%; height: 25em; width: auto;" id="dancerImg">
+    <img src="https://lh3.google.com/u/1/d/1XNGM3DLf1O1Slgzvv_6YMGSQGs1P_wtF=w1919-h969-iv1"
+        style="position: fixed; top:15%;left:35%; height: 25em; width: auto;" id="dancerImg">
 
-    <img src="./bg1.jpg" style="width: 100%;" id="bg">
+    <img src="https://lh3.google.com/u/1/d/1yX3LIdu-j_B_-rrZD6e_9s-5cZG4rqak=w1919-h1079-iv1" style="width: 100%;"
+        id="bg">
 
     <script>
 
@@ -120,10 +137,9 @@
         function f11() {
             body.webkitRequestFullscreen();
             document.getElementById("introbg").style.display = "none";
-            Sound.play("./nhac.mp3");
-            setTimeout(() => document.getElementById("dancerImg").src = "./dog.gif", 5000)
-            setTimeout(() => document.getElementById("dancerImg").src = "./zero2.gif", 10000)
-
+            Sound.play("./nhac.mp3")
+            setTimeout(() => document.getElementById("dancerImg").src = "https://lh3.google.com/u/1/d/14oAT82S8ul1R28iRCslquv9fuXmklmES=w1919-h969-iv1", 6000)
+            setTimeout(() => document.getElementById("dancerImg").src = "https://lh3.google.com/u/1/d/1XNGM3DLf1O1Slgzvv_6YMGSQGs1P_wtF=w1919-h969-iv1", 9000)
         }
     </script>
 </body>
