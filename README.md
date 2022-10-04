@@ -1,5 +1,5 @@
 # EDM online
-- Web page: https://minhtuan29.github.io/bar-online   
+- Web page: https://minhtuan29.github.io/edm-online   
   
 - Tiến độ:   
             Đang thực hiện, khi nào rảnh thì vô làm  
