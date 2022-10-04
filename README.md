@@ -1,4 +1,4 @@
-# bar-online
+# EDM online
 - Web page: https://minhtuan29.github.io/bar-online   
   
 - Tiến độ:   
