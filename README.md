@@ -9,5 +9,7 @@
    - đổi nhạc
    - đổi sân khấu
    - quăng bông hoa lên sân khấu  
+   
+ - Hiệu ứng ánh đèn sân khấu
 # Tác giả
 Hoàng Minh Tuấn
